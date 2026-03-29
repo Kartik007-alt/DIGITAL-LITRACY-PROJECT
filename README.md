@@ -60,6 +60,15 @@ This project helped in understanding digital literacy, improving communication s
 
 ##  Github Link
 
-(
+(https://github.com/Kartik007-alt/DIGITAL-LITRACY-PROJECT.git)
+
+##  Linkedin Link
+
+(www.linkedin.com/in/kartik-undefined-47b1b13bb)
+
+## Kaggle Link 
+
+(https://www.kaggle.com/kartik7107)
+
 
 -# digital-literacy-project
